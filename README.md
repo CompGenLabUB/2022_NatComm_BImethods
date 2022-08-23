@@ -7,6 +7,9 @@ current publicly available preprint version was posted at
 
 We really apreciate if you cite this paper when using any of the referenced materials.
 
+__IMPORTANT:__ This repository contains large files; in order to retrieve them, 
+you should install <a href="https://git-lfs.github.com/"><tt>git-lfs</tt></a> 
+support before cloning it.
 
 ## Abstract
 
@@ -35,7 +38,7 @@ Bioinformatics protocols for that manuscript are described, along with
 relevant figures and tables, in the main PDF file:
 
 <p align="center">
-    <a href="./2022_NatComm_BImethods.pdf">Computational Supplementary Methods</a> (118MB)
+    <a href="https://github.com/CompGenLabUB/2022_NatComm_BImethods/raw/main/2022_NatComm_BImethods.pdf">Computational Supplementary Methods</a> (118MB)
 </p>
 
 It contains links to all the scripts and files also distributed through this repository. 
