@@ -35,7 +35,7 @@ Bioinformatics protocols for that manuscript are described, along with
 relevant figures and tables, in the main PDF file:
 
 <p align="center">
-    [Computational Supplementary Methods](./2022_NatComm_BImethods.pdf) (118MB)
+    <a href="./2022_NatComm_BImethods.pdf">Computational Supplementary Methods</a> (118MB)
 </p>
 
 It contains links to all the scripts and files also distributed through this repository. 
@@ -43,12 +43,17 @@ It contains links to all the scripts and files also distributed through this rep
 
 ## CopyLeft
 
-<img alt="GNU-GPLv3 license" src="./bin/gplv3.png" style="float:left; margin-right:20px;">
-Scripts developed at the lab are distributed under [GNU-GPLv3 license](./bin/gpl-3.0.txt).
+<table width="100%" style="border-width:0 !important;">
+<tr><td width=150px"><img alt="GNU-GPLv3 license" src="./bin/gplv3.png" width="150px"></td>
+<td><p>
+Scripts developed at the lab are distributed under <a href="./bin/gpl-3.0.txt">GNU-GPLv3 license</a>.
 They are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
 PURPOSE. See the GNU General Public License for more details.
+</p></td></tr>
+</table>
 
 <p align="center">
-    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" alt="This data is licensed under a Creative Commons Attribution 4.0 International License."><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> --- [Computational Genomics Lab](https://compgen.bio.ub.edu)
+2022 - <a href="https://compgen.bio.ub.edu">Computational Genomics Lab</a><br/>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" alt="This data is licensed under a Creative Commons Attribution 4.0 International License."><img alt="Creative Commons License" style="border-width:0" height="30px" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 </p>
