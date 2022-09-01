@@ -61,11 +61,11 @@ You can easily install it after downloading on your local <tt>R</tt>
 distribution; just run the commands below on the <tt>shell</tt>
 command-line:
 
-<code>
-    R CMD build BSgenome.Smed.PlanMine.ddSmesg4;<br />
-    R CMD check BSgenome.Smed.PlanMine.ddSmesg4_4.0.tar.gz;<br />
-    R CMD INSTALL BSgenome.Smed.PlanMine.ddSmesg4_4.0.tar.gz;<br />
-</code>
+```{.sh}
+R CMD build BSgenome.Smed.PlanMine.ddSmesg4;<br />
+R CMD check BSgenome.Smed.PlanMine.ddSmesg4_4.0.tar.gz;<br />
+R CMD INSTALL BSgenome.Smed.PlanMine.ddSmesg4_4.0.tar.gz;<br />
+```
 
 We wish you find those materials useful for your planarian research.
 
