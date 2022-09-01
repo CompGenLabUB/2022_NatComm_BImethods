@@ -62,9 +62,9 @@ distribution; just run the commands below on the <tt>shell</tt>
 command-line:
 
 ```{.sh}
-R CMD build BSgenome.Smed.PlanMine.ddSmesg4;<br />
-R CMD check BSgenome.Smed.PlanMine.ddSmesg4_4.0.tar.gz;<br />
-R CMD INSTALL BSgenome.Smed.PlanMine.ddSmesg4_4.0.tar.gz;<br />
+R CMD build BSgenome.Smed.PlanMine.ddSmesg4;
+R CMD check BSgenome.Smed.PlanMine.ddSmesg4_4.0.tar.gz;
+R CMD INSTALL BSgenome.Smed.PlanMine.ddSmesg4_4.0.tar.gz;
 ```
 
 We wish you find those materials useful for your planarian research.
