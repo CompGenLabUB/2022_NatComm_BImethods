@@ -38,7 +38,7 @@ relevant figures and tables, in the main PDF file:
  <a href="https://compgen.bio.ub.edu/datasets/2022_NatComm/2022_NatComm_BImethods.pdf"
     alt="Computational Supplementary Methods for Eudald et al, 2022.">
     Computational Supplementary Methods</a>
-    (176MB PDF)
+    (184.5MB PDF)
 </p>
 
 It contains links to all the scripts and files described there that
