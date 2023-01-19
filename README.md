@@ -1,9 +1,7 @@
 # 2022_NatComm_BImethods
 
 This page contains the Bioinformatics supplementary material for the
-manuscript __Pascual-Carreras et al, Nature Communications, 2022__ (in press);
-current publicly available preprint version was posted at
-[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.12.08.416008v1).
+manuscript [__Pascual-Carreras et al, Nature Communications, 2023__](https://doi.org/10.1038/s41467-023-35937-y).
 
 We really apreciate if you cite this paper when using any of the referenced materials.
 
