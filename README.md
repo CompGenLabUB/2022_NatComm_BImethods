@@ -1,8 +1,7 @@
 # 2022_NatComm_BImethods
 
-This page contains the Bioinformatics supplementary material for the
+This page contains the Computational Supplementary Methods (CSM) for the
 manuscript [__Pascual-Carreras et al, Nature Communications, 2023__](https://doi.org/10.1038/s41467-023-35937-y).
-
 We really apreciate if you cite this paper when using any of the referenced materials.
 
 
